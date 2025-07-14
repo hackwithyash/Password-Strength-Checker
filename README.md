@@ -60,11 +60,11 @@ pip install PyQt5
 ## 🛠️ How to Run
 
 ```bash
-python password_checker.py
+python pass_checker.py
 ```
 
 ## 📦password-strength-checker
-- ┣ 📄 password_checker.py     # Main application code
+- ┣ 📄 pass_checker.py     # Main application code
 - ┣ 📄 eye.png                  # Icon to show password
 - ┣ 📄 eye-off.png              # Icon to hide password
 - ┗ 📄 README.md                # Project documentation
